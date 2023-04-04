@@ -12,7 +12,7 @@ Prácticas realizadas en el lenguaje de programación Python durante el bootcamp
 teníendo un total de 10 katas al finalizar este modulo.
 
 ## Objetivo
-El objetivo de realizar estas e reforzar los fundamentos básicos de programación en python.
+El objetivo de realizar estas practicas es para reforzar los fundamentos básicos de programación en python.
 
 ## Ejercicios
 * [Kata 1:](https://github.com/rositaa-as/Katas_Rosa/blob/main/Kata1_ASRMG.ipynb) Construir un convertidor de unidades
